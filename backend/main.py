@@ -9,8 +9,9 @@ import ee
 from pydantic_models import Response
 
 
+# your creds
 # ee.Authenticate()
-ee.Initialize(project="ee-deepaman1729")
+ee.Initialize(project="XXXX")
 
 from api import router
 
