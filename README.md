@@ -1,6 +1,9 @@
 
 Welcome to your go-to tool for exploring environmental data around any region of interest (ROI). This application is designed to provide insightful and accessible information about nature in your chosen areas, making it an invaluable resource for researchers, environmentalists, and anyone interested in understanding the natural world better.
 
+Linkedin link👇👇
+https://shorturl.at/SbGfX
+
 ## Features ✨
 
 - **NDVI Analysis**: Calculate and visualize the Normalized Difference Vegetation Index (NDVI) for your selected area.
@@ -54,5 +57,6 @@ Welcome to your go-to tool for exploring environmental data around any region of
     ```sh
     python main.py
     ```
+
 
 You're all set to explore the environmental data! 🌟
